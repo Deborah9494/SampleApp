@@ -1,0 +1,2 @@
+# SampleApp
+From rails tutorial
