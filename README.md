@@ -1,4 +1,5 @@
 # SampleApp
+Using ruby on rails version '4.2.6'
 From rails tutorial
 # Ruby on Rails Tutorial sample application
 
